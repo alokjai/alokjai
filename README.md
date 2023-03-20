@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Alok Jaiswal
 - 👀 I’m interested in Web software development.
-- 🌱 I’m currently learning Government polytechnic jaunpur.
+- 🌱 I’m done my Diploma in Computer Science & Eng. from Government polytechnic jaunpur.
+- ⛳I'm currently learning Bansal Institute of Engineering and Technology
 - 💞️ I’m looking to collaborate on Laravel framework.
 
 
